@@ -8,6 +8,7 @@
     color:rgb(0, 0, 0);
     margin-left:4px;
     z-index:200p;
+    cursor: pointer;
 }
 .sidebar-link{
     height:76px;
